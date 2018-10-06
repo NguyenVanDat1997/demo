@@ -1,0 +1,397 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ1-ml_grtDzkR2pzmrXfvP7Q",
+         "types" : [ "establishment", "point_of_interest", "store" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJK0UCjOnsDzkR6yaSfFCcyfM",
+         "types" : [ "premise" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 30.7425892,
+               "lng" : 76.8017586
+            },
+            "southwest" : {
+               "lat" : 30.7058687,
+               "lng" : 76.7746212
+            }
+         },
+         "copyrights" : "Dữ liệu bản đồ ©2018 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "7,0 km",
+                  "value" : 6999
+               },
+               "duration" : {
+                  "text" : "17 phút",
+                  "value" : 1038
+               },
+               "end_address" : "Elante Mall, 178-178A, Purv Marg, Industrial Area Phase I, Chandigarh, 160002, Ấn Độ",
+               "end_location" : {
+                  "lat" : 30.7058687,
+                  "lng" : 76.80175629999999
+               },
+               "start_address" : "80-81 (old pb. & sind bank bulding ),sec 17 c, Chandigarh, 160017, Ấn Độ",
+               "start_location" : {
+                  "lat" : 30.739759,
+                  "lng" : 76.7831983
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0,4 km",
+                        "value" : 405
+                     },
+                     "duration" : {
+                        "text" : "2 phút",
+                        "value" : 114
+                     },
+                     "end_location" : {
+                        "lat" : 30.7425892,
+                        "lng" : 76.7817309
+                     },
+                     "html_instructions" : "Đi về hướng \u003cb\u003eĐông Bắc\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ozrzD_vssMGACCAEEIEIg@}@GMCEeAz@{@r@sAbACBEDYTa@\\y@j@qCxB"
+                     },
+                     "start_location" : {
+                        "lat" : 30.739759,
+                        "lng" : 76.7831983
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,2 km",
+                        "value" : 206
+                     },
+                     "duration" : {
+                        "text" : "1 phút",
+                        "value" : 44
+                     },
+                     "end_location" : {
+                        "lat" : 30.741527,
+                        "lng" : 76.77997019999999
+                     },
+                     "html_instructions" : "Rẽ \u003cb\u003etrái\u003c/b\u003e về hướng \u003cb\u003eJan Marg\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "elszDylssMP\\Vh@vAxC\\p@p@hA@@"
+                     },
+                     "start_location" : {
+                        "lat" : 30.7425892,
+                        "lng" : 76.7817309
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,1 km",
+                        "value" : 143
+                     },
+                     "duration" : {
+                        "text" : "1 phút",
+                        "value" : 30
+                     },
+                     "end_location" : {
+                        "lat" : 30.7424575,
+                        "lng" : 76.77907859999999
+                     },
+                     "html_instructions" : "Rẽ \u003cb\u003ephải\u003c/b\u003e về hướng \u003cb\u003eJan Marg\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qeszDyassMHNSJq@d@_@ZaAz@[V"
+                     },
+                     "start_location" : {
+                        "lat" : 30.741527,
+                        "lng" : 76.77997019999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,5 km",
+                        "value" : 515
+                     },
+                     "duration" : {
+                        "text" : "1 phút",
+                        "value" : 60
+                     },
+                     "end_location" : {
+                        "lat" : 30.7397294,
+                        "lng" : 76.77473130000001
+                     },
+                     "html_instructions" : "Rẽ \u003cb\u003etrái\u003c/b\u003e vào \u003cb\u003eJan Marg\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "kkszDg|rsMr@rAjHbNlBhDT^|@bB"
+                     },
+                     "start_location" : {
+                        "lat" : 30.7424575,
+                        "lng" : 76.77907859999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,8 km",
+                        "value" : 835
+                     },
+                     "duration" : {
+                        "text" : "2 phút",
+                        "value" : 123
+                     },
+                     "end_location" : {
+                        "lat" : 30.7336574,
+                        "lng" : 76.7796084
+                     },
+                     "html_instructions" : "Tại vòng xuyến, đi theo lối ra \u003cb\u003ethứ 1\u003c/b\u003e vào \u003cb\u003eUdyog Path\u003c/b\u003e",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "izrzDaarsMD?F@D@DBD@DBDBDBZKDCFEHGHGTUlMoKBENMjB{A@??AlKoIb@_@t@w@"
+                     },
+                     "start_location" : {
+                        "lat" : 30.7397294,
+                        "lng" : 76.77473130000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,8 km",
+                        "value" : 828
+                     },
+                     "duration" : {
+                        "text" : "2 phút",
+                        "value" : 112
+                     },
+                     "end_location" : {
+                        "lat" : 30.7279036,
+                        "lng" : 76.7847792
+                     },
+                     "html_instructions" : "Tại \u003cb\u003eISBT 17 Chowk\u003c/b\u003e, đi theo lối ra \u003cb\u003ethứ 1\u003c/b\u003e và vào \u003cb\u003eUdyog Path\u003c/b\u003e",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "ktqzDq_ssMAG?GAG@G?EBG@GBE@CBCBC@ABCBABADAB?DAD?D@D?D@DBB@x@e@HGRQlBaBnBcBlFiE@AhMgLXWTWLS"
+                     },
+                     "start_location" : {
+                        "lat" : 30.7336574,
+                        "lng" : 76.7796084
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,8 km",
+                        "value" : 827
+                     },
+                     "duration" : {
+                        "text" : "1 phút",
+                        "value" : 85
+                     },
+                     "end_location" : {
+                        "lat" : 30.72221469999999,
+                        "lng" : 76.7899719
+                     },
+                     "html_instructions" : "Tại \u003cb\u003eJunction Number 28\u003c/b\u003e, đi theo lối ra \u003cb\u003ethứ 2\u003c/b\u003e và vào \u003cb\u003eUdyog Path\u003c/b\u003e",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "kppzD{_tsMAE?GAE@E?G@E@EBE@CBC@CBCBA@CBADADADAD?D?D@D@DBDB@@@@@@d@[PIBCnFyEfGsFDEJKhAgAbA{@bEuDp@k@\\[VWHMBEJU"
+                     },
+                     "start_location" : {
+                        "lat" : 30.7279036,
+                        "lng" : 76.7847792
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,8 km",
+                        "value" : 823
+                     },
+                     "duration" : {
+                        "text" : "1 phút",
+                        "value" : 73
+                     },
+                     "end_location" : {
+                        "lat" : 30.7166465,
+                        "lng" : 76.79535210000002
+                     },
+                     "html_instructions" : "Tại vòng xuyến, đi theo lối ra \u003cb\u003ethứ 2\u003c/b\u003e và vào \u003cb\u003eUdyog Path\u003c/b\u003e",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "ylozDi`usMAG?GAE@G?GBE@GBE@C@A@CBA@ABCBA@ADADAF?D?D@D?DBBBRILIPOl@m@nEaEnCkChBeBp@q@v@s@z@{@lAiA`BaBz@}@b@c@PUT]"
+                     },
+                     "start_location" : {
+                        "lat" : 30.72221469999999,
+                        "lng" : 76.7899719
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,9 km",
+                        "value" : 854
+                     },
+                     "duration" : {
+                        "text" : "2 phút",
+                        "value" : 90
+                     },
+                     "end_location" : {
+                        "lat" : 30.710911,
+                        "lng" : 76.8010549
+                     },
+                     "html_instructions" : "Tại vòng xuyến, đi theo lối ra \u003cb\u003ethứ 2\u003c/b\u003e và vào \u003cb\u003eUdyog Path\u003c/b\u003e",
+                     "maneuver" : "roundabout-left",
+                     "polyline" : {
+                        "points" : "ajnzD}avsM?GAE?G?E@G@E@GDI@A@CBA@CBA@ABA@AD?DAB?D?B?D@B@D@~DiDfIeIxJ}JdCgCh@q@"
+                     },
+                     "start_location" : {
+                        "lat" : 30.7166465,
+                        "lng" : 76.79535210000002
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,7 km",
+                        "value" : 662
+                     },
+                     "duration" : {
+                        "text" : "1 phút",
+                        "value" : 70
+                     },
+                     "end_location" : {
+                        "lat" : 30.7073947,
+                        "lng" : 76.7956993
+                     },
+                     "html_instructions" : "Rẽ \u003cb\u003ephải\u003c/b\u003e vào \u003cb\u003ePurv Marg\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "efmzDqewsMVWNTdB`DbBdDjEfIjCzEbBfDPZ"
+                     },
+                     "start_location" : {
+                        "lat" : 30.710911,
+                        "lng" : 76.8010549
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "84 m",
+                        "value" : 84
+                     },
+                     "duration" : {
+                        "text" : "1 phút",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : 30.706742,
+                        "lng" : 76.79579439999999
+                     },
+                     "html_instructions" : "Rẽ \u003cb\u003etrái\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "eplzDcdvsM\\VD@FBH?\\El@i@"
+                     },
+                     "start_location" : {
+                        "lat" : 30.7073947,
+                        "lng" : 76.7956993
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,4 km",
+                        "value" : 389
+                     },
+                     "duration" : {
+                        "text" : "1 phút",
+                        "value" : 53
+                     },
+                     "end_location" : {
+                        "lat" : 30.7088086,
+                        "lng" : 76.7990837
+                     },
+                     "html_instructions" : "Rẽ \u003cb\u003etrái\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "cllzDudvsM{FoKmBoDs@qA"
+                     },
+                     "start_location" : {
+                        "lat" : 30.706742,
+                        "lng" : 76.79579439999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0,4 km",
+                        "value" : 393
+                     },
+                     "duration" : {
+                        "text" : "2 phút",
+                        "value" : 146
+                     },
+                     "end_location" : {
+                        "lat" : 30.7061295,
+                        "lng" : 76.8017586
+                     },
+                     "html_instructions" : "Rẽ \u003cb\u003ephải\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "aylzDgyvsM~AeBrFoFx@aA@AhB_B\\]"
+                     },
+                     "start_location" : {
+                        "lat" : 30.7088086,
+                        "lng" : 76.7990837
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "35 m",
+                        "value" : 35
+                     },
+                     "duration" : {
+                        "text" : "1 phút",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : 30.7058687,
+                        "lng" : 76.80175629999999
+                     },
+                     "html_instructions" : "Rẽ \u003cb\u003ephải\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eĐường bị giới hạn sử dụng\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eĐiểm đến sẽ ở bên phải\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ihlzD_jwsMLND@D@DAHGHI"
+                     },
+                     "start_location" : {
+                        "lat" : 30.7061295,
+                        "lng" : 76.8017586
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ozrzD_vssMKEGOy@{AyEvD_@Z{AhAqCxBP\\nBbE\\p@p@hAJPeAp@aBvA[Vr@rAxKlSrAbCL@VJJF`@Op@k@lQ_OrLqJt@w@AGAOF]LQLITCVFB@x@e@\\Y|EeEnFkEbN_Mb@k@AYFYJONIVCVJBBf@YTMvNmM~CuCtFaFt@s@LSJUAGAM@OJWHINIX?JBBBRI^Y|FoFbJwIfHeHt@y@T]?GAM@MJYJKLERAHBD@~DiD`UcUdCgCh@q@VWNThEfIvIbPtBbEb@XPB\\El@i@iJ_Qs@qA~AeBrFoFx@aAjBaB\\]LNJBNIHI"
+         },
+         "summary" : "Udyog Path",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}
